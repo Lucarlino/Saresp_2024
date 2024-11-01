@@ -1,6 +1,6 @@
 Código do professor: 767436009-33
 
-Nome Completo: Lucas Souza Santos 
+Nome Completo: Neymar Jr
 
 CPF: 789272918-55
 
@@ -8,3 +8,4 @@ RG: 56769873-8
 
 Telefone: 119123456789
 
+Data de Nascimento: 01/01/2001
