@@ -36,7 +36,7 @@ input[type="submit"] {
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 4px;
-    box-sizing: border-box; /* Para incluir padding e border no tamanho total */
+    box-sizing: border-box;
 }
 
 input[type="submit"] {
